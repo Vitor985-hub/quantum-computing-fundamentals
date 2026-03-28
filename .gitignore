@@ -1,0 +1,12 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de segredo
+.env
+token.txt
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
